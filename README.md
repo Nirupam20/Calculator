@@ -4,10 +4,10 @@ In this project I created the front-end design of a Calculator made with HTML, C
 
 I have uploaded a total of 3 files here :-
 
-      index.html - It consists of the Home Page's html code(Basic structure:display,Buttons) of the Calculator.
+      index.html - It consists of html code(Basic structure:display,Buttons) of the calculator.
       index.css - It consists of the styling for buttons and display.
-      index.js -It consists of 1)Input through Calculator buttons
-                                     2) Input with Keys 
+      index.js -It consists of 1)Input through calculator buttons.
+                                     2) Input with Keys. 
                      
 Screenshots of Calculator :-
 
